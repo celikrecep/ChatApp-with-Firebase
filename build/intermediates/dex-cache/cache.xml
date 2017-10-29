@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/loyer/.android/build-cache/cfcdb59ee3be7b8e7aea32fb6b44ef7ea6a540e1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a7ffe939ffd830b5d4052f3c1c4c235923790ce">
+        <dex dex="/Users/loyer/Desktop/FlashChat-Firebase-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_362744beeb50b798a7018f47f78a1940ea1a9687/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/loyer/Desktop/FlashChat-Firebase-Android-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9011a901f918264447d091285d57e93d41b65c2f">
+        <dex dex="/Users/loyer/Desktop/FlashChat-Firebase-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7e5e6bf28739f5155edf6f4a06bb1b6c21c1723a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/loyer/.android/build-cache/d7cb75a67093d367a5951864b535e2943a3d07c5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="/Users/loyer/Desktop/FlashChat-Firebase-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_54c7934cc21d4dfe07ca461387285f64b7a5b783/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/loyer/Desktop/FlashChat-Firebase-Android-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/loyer/Desktop/FlashChat-Firebase-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bca0e318c8186618ba02a014822ea45296d148bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/loyer/.android/build-cache/baffa909efcae15c9caa940492d1ae7cf69b3e2c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="/Users/loyer/Desktop/FlashChat-Firebase-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dcbd2c793d27bd7ecfd031870529681bf4cf1e72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/loyer/.android/build-cache/6c2f7512038bd8f2293c965704c36204d7b39c77/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b42a61cd5924f28e95894e859e6abe57847e2f3">
+        <dex dex="/Users/loyer/Desktop/FlashChat-Firebase-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f6e50ddb877914bbd9d7b40f8b2611902a4a43b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/loyer/.android/build-cache/46a4a9d19b96a478842d74d4117447669f62c381/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0a843615f3b5fa3a080497709f5436696149a09">
+        <dex dex="/Users/loyer/Desktop/FlashChat-Firebase-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a8bf312072d2974383c6f8c21921303bf75304d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/loyer/.android/build-cache/db7ea72c540806aaeb67d61c8387310e3fe9e5af/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="/Users/loyer/Desktop/FlashChat-Firebase-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_33eca2c6503e7a0452bc1fa7b8030530ee8831c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/loyer/.android/build-cache/2bd7df978bb6088ef4f29e3c4970cb87c3a448fd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="/Users/loyer/Desktop/FlashChat-Firebase-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7d7e45a368543ee64babc5f182e7a008c253ede9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/loyer/.android/build-cache/d6259923aa4834a3f21d71dea4ffdb32d0933f0a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="/Users/loyer/Desktop/FlashChat-Firebase-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0d74f799dc1c85aa342a5901778305541a770cbd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/loyer/.android/build-cache/90abf3c56152bc84c1f696e6c197bc6c0c1ef2fe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="/Users/loyer/Desktop/FlashChat-Firebase-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b3de8a16fcd1fb53ba97c9949b9c87bc60fb1ad8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/loyer/.android/build-cache/dcad4b99fccae989b026f764f5ab5478018b5473/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="/Users/loyer/Desktop/FlashChat-Firebase-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aa1582ca4d36eba71dc5db91bcb4bfb717dea86a/classes.dex" />
+    </item>
+
+</items>
